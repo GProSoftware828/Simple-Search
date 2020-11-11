@@ -1,0 +1,17 @@
+.title-space {
+	width: 20%;
+}
+
+.body-space {
+	width: 80%;
+}
+
+.table {
+	width: 100%;
+	padding: 10px;
+	border: 1px solid black;
+}
+
+#rows:nth-child(even) {
+	background-color: #eeeeee;
+}

@@ -1,0 +1,25 @@
+.name-space {
+	width: 30%;
+}
+
+.email-space {
+	width: 30%;
+}
+
+.city-space {
+	width: 20%;
+}
+
+.company-space {
+	width: 20%;
+}
+
+.table {
+	width: 100%;
+	padding: 10px;
+	border: 1px solid black;
+}
+
+#rows:nth-child(even) {
+	background-color: #eeeeee;
+}
